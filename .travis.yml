@@ -1,0 +1,4 @@
+language:python
+script:
+- echo version_number 1.12
+- '-d gcc'
