@@ -1,4 +1,2 @@
-language:python
-script:
-- echo version_number 1.12
-- '-d gcc'
+language:c
+script:gcc -o main main.c
